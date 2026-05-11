@@ -7,6 +7,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.17](./mhrv-rs-android-arm64-v8a-v1.9.17)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 - [mhrv-rs-android-arm64-v8a-v1.9.21](./mhrv-rs-android-arm64-v8a-v1.9.21)
+- [mhrv-rs-android-arm64-v8a-v1.9.22](./mhrv-rs-android-arm64-v8a-v1.9.22)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
 
